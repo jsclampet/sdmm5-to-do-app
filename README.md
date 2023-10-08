@@ -2,7 +2,7 @@
 
 *Todo app written in HTML, CSS and Vanilla JS*
 
-View it [here]()
+View it [here](https://sdmm5-to-do-app.pages.dev/)
 
 ![preview](./src/Screenshot%202023-10-08%20at%2012.41.44 PM.png)
 
